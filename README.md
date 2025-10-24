@@ -27,7 +27,7 @@
    - Branch : `main` / `root`
    - Sauvegardez
 
-Votre site sera disponible à : `https://votre-username.github.io/driveops-landing/`
+Votre site sera disponible à : `https://AgitechBelgium.github.io/driveops-landing/`
 
 ### Option 2 : Domaine personnalisé
 
